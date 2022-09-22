@@ -1,0 +1,18 @@
+.PiePagina{
+    display: list-item;
+    float: right;
+}
+.menu1{
+    margin:50 px;
+    padding:50 px;
+    display:flex;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;   
+}
+.logo1{
+    height: 15rem;
+    width: 30rem ;
+    float:right;
+}

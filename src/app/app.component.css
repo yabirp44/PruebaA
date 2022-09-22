@@ -1,0 +1,12 @@
+.imagen2.1{
+    .menu{
+        margin:0 px;
+        padding:100 px;
+        display :flex;
+        list-style: no;
+    }
+    .logo{
+        height: 12rem;
+        width: 30rem ;
+    }
+}

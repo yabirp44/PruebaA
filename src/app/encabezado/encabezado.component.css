@@ -1,0 +1,15 @@
+.contenedor{
+    display: flex;
+}
+.menu{
+    margin:0 px;
+    padding:0 px;
+
+    
+}
+.logo{
+    height: 15rem;
+    width: 30rem ;
+    left: 65px;
+    display: flex;
+}
